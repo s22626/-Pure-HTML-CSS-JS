@@ -1,0 +1,7 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
